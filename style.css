@@ -96,3 +96,12 @@ footer div{
     text-decoration: underline;
     cursor: pointer;
 }
+
+a{
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:hover{
+    text-decoration: underline;
+}

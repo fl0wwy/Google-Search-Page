@@ -1,5 +1,5 @@
 # Google Search Page remake using HTML & CSS
 
-Original: ![Alt text](image.png)
+Original: ![Alt text](resources/image.png)
 
-My Remake: ![Alt text](image-1.png)
+My Remake: ![Alt text](resources/image-1.png)
